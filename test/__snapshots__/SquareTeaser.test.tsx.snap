@@ -1,0 +1,1291 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SquareTeaser renders bookmarked correctly 1`] = `
+<div
+  cardStyle="default"
+  className="fd-card fd-square-teaser default"
+  id="1292665"
+>
+  <a
+    href="https://fd.nl/futures/1292665/een-muur-bouwen-is-makkelijker-dan-robots-stukslaan"
+  >
+    <figure
+      className="fd-teaser-figure"
+    >
+      <picture>
+        <source
+          media="(max-width: 640px)"
+          srcSet="https://images.fd.nl/nheGAUNYeo_AjGfa7ob4cqxoreI.jpg?fit=crop&crop=faces&auto=format&fm=jpg&q=45&w=599&h=337&rect=.0%2C.1557223264540338%2C.9999999999999999%2C.8442776735459663"
+        />
+        <source
+          media="(max-width: 860px)"
+          srcSet="https://images.fd.nl/nheGAUNYeo_AjGfa7ob4cqxoreI.jpg?fit=crop&crop=faces&auto=format&fm=jpg&q=45&w=115&h=115&rect=.20625%2C.0%2C.66625%2C.9999999999999999"
+        />
+        <source
+          media="(min-width: 861px)"
+          srcSet="https://images.fd.nl/nheGAUNYeo_AjGfa7ob4cqxoreI.jpg?fit=crop&crop=faces&auto=format&fm=jpg&q=45&w=300&h=169&rect=.0%2C.1557223264540338%2C.9999999999999999%2C.8442776735459663"
+        />
+        <img
+          alt="Amsterdam doet ertoe"
+          src="https://images.fd.nl/nheGAUNYeo_AjGfa7ob4cqxoreI.jpg?fit=crop&crop=faces&auto=format&fm=jpg&q=45&w=599&h=337&rect=.0%2C.1557223264540338%2C.9999999999999999%2C.8442776735459663"
+        />
+      </picture>
+    </figure>
+    <div
+      className="meta"
+    >
+      <span
+        className="prefix"
+      >
+        Samenleving
+      </span>
+      <time>
+        6 uur
+      </time>
+    </div>
+    <div
+      className="text-container"
+    >
+      <h1
+        className="fd-typography square-teaser-h"
+        textStyle="square-teaser-h"
+      >
+        Francis Fukuyama: 'Een muur bouwen is makkelijker dan robots stukslaan'
+      </h1>
+      <p
+        className="intro"
+      >
+        Identiteitspolitiek leidt zowel op links als op rechts tot uitwassen zoals de muur van Trump, zegt Francis Fukuyama. We kunnen ons beter druk maken over andere kwesties, zoals robotisering.
+      </p>
+    </div>
+  </a>
+  <nav
+    className="related"
+  >
+    <a
+      className="related-link longread"
+      href="https://dev.fd.nl/profiel/1235280/als-vrouw-moet-je-onafhankelijk-zijn"
+    >
+      <span
+        className="related-title"
+      >
+        ‘Als vrouw moet je altijd onafhankelijk zijn’
+      </span>
+      <i
+        className="icon-chevron-right"
+      />
+    </a>
+    <a
+      className="related-link"
+      href="https://dev.fd.nl/economie-politiek/1235274/president-van-de-amerikaanse-fed-hamert-op-onafhankelijkheid"
+    >
+      <span
+        className="related-title"
+      >
+        President van de Amerikaanse Fed hamert op onafhankelijkheid
+      </span>
+      <i
+        className="icon-chevron-right"
+      />
+    </a>
+  </nav>
+  <footer
+    className="fd-teaser-footer"
+  >
+    <menu>
+      <span
+        className="placeholder"
+      />
+      <span
+        className="share-social"
+      >
+        <i
+          className="icon-share-alt"
+          data-id="1292665"
+          data-section="Samenleving"
+          data-title="Francis Fukuyama: 'Een muur bouwen is makkelijker dan robots stukslaan'"
+          data-url="https://fd.nl/futures/1292665/een-muur-bouwen-is-makkelijker-dan-robots-stukslaan"
+          title="Delen"
+        />
+        <span
+          className="icon-label"
+        >
+          Delen
+        </span>
+      </span>
+      <span
+        className="favorite"
+        data-addurl="/add-favorite"
+        data-articleid="1292665"
+        data-deleteurl="/delete-favorite"
+        data-key="1292665"
+        data-title="Francis Fukuyama: 'Een muur bouwen is makkelijker dan robots stukslaan'"
+        data-url="https://fd.nl/futures/1292665/een-muur-bouwen-is-makkelijker-dan-robots-stukslaan"
+        id="favorite1292665"
+        title="Bewaren"
+      >
+        <i
+          className="icon-bookmark"
+          title="Bewaren"
+        />
+        <i
+          className="icon-bookmark1"
+          title="Verwijder van bewaarlijst"
+        />
+        <span
+          className="icon-label"
+        >
+          Bewaren
+        </span>
+      </span>
+      <a
+        className="comments-link"
+        data-articleid="1292665"
+        href="https://fd.nl/futures/1292665/een-muur-bouwen-is-makkelijker-dan-robots-stukslaan#comments"
+      />
+    </menu>
+  </footer>
+</div>
+`;
+
+exports[`SquareTeaser renders correctly 1`] = `
+<div
+  cardStyle="default"
+  className="fd-card fd-square-teaser default"
+  id="1292665"
+>
+  <a
+    href="https://fd.nl/futures/1292665/een-muur-bouwen-is-makkelijker-dan-robots-stukslaan"
+  >
+    <figure
+      className="fd-teaser-figure"
+    >
+      <picture>
+        <source
+          media="(max-width: 640px)"
+          srcSet="https://images.fd.nl/nheGAUNYeo_AjGfa7ob4cqxoreI.jpg?fit=crop&crop=faces&auto=format&fm=jpg&q=45&w=599&h=337&rect=.0%2C.1557223264540338%2C.9999999999999999%2C.8442776735459663"
+        />
+        <source
+          media="(max-width: 860px)"
+          srcSet="https://images.fd.nl/nheGAUNYeo_AjGfa7ob4cqxoreI.jpg?fit=crop&crop=faces&auto=format&fm=jpg&q=45&w=115&h=115&rect=.20625%2C.0%2C.66625%2C.9999999999999999"
+        />
+        <source
+          media="(min-width: 861px)"
+          srcSet="https://images.fd.nl/nheGAUNYeo_AjGfa7ob4cqxoreI.jpg?fit=crop&crop=faces&auto=format&fm=jpg&q=45&w=300&h=169&rect=.0%2C.1557223264540338%2C.9999999999999999%2C.8442776735459663"
+        />
+        <img
+          alt="Amsterdam doet ertoe"
+          src="https://images.fd.nl/nheGAUNYeo_AjGfa7ob4cqxoreI.jpg?fit=crop&crop=faces&auto=format&fm=jpg&q=45&w=599&h=337&rect=.0%2C.1557223264540338%2C.9999999999999999%2C.8442776735459663"
+        />
+      </picture>
+    </figure>
+    <div
+      className="meta"
+    >
+      <span
+        className="prefix"
+      >
+        Samenleving
+      </span>
+      <time>
+        6 uur
+      </time>
+    </div>
+    <div
+      className="text-container"
+    >
+      <h1
+        className="fd-typography square-teaser-h"
+        textStyle="square-teaser-h"
+      >
+        Francis Fukuyama: 'Een muur bouwen is makkelijker dan robots stukslaan'
+      </h1>
+      <p
+        className="intro"
+      >
+        Identiteitspolitiek leidt zowel op links als op rechts tot uitwassen zoals de muur van Trump, zegt Francis Fukuyama. We kunnen ons beter druk maken over andere kwesties, zoals robotisering.
+      </p>
+    </div>
+  </a>
+  <nav
+    className="related"
+  >
+    <a
+      className="related-link longread"
+      href="https://dev.fd.nl/profiel/1235280/als-vrouw-moet-je-onafhankelijk-zijn"
+    >
+      <span
+        className="related-title"
+      >
+        ‘Als vrouw moet je altijd onafhankelijk zijn’
+      </span>
+      <i
+        className="icon-chevron-right"
+      />
+    </a>
+    <a
+      className="related-link"
+      href="https://dev.fd.nl/economie-politiek/1235274/president-van-de-amerikaanse-fed-hamert-op-onafhankelijkheid"
+    >
+      <span
+        className="related-title"
+      >
+        President van de Amerikaanse Fed hamert op onafhankelijkheid
+      </span>
+      <i
+        className="icon-chevron-right"
+      />
+    </a>
+  </nav>
+  <footer
+    className="fd-teaser-footer"
+  >
+    <menu>
+      <span
+        className="placeholder"
+      />
+      <span
+        className="share-social"
+      >
+        <i
+          className="icon-share-alt"
+          data-id="1292665"
+          data-section="Samenleving"
+          data-title="Francis Fukuyama: 'Een muur bouwen is makkelijker dan robots stukslaan'"
+          data-url="https://fd.nl/futures/1292665/een-muur-bouwen-is-makkelijker-dan-robots-stukslaan"
+          title="Delen"
+        />
+        <span
+          className="icon-label"
+        >
+          Delen
+        </span>
+      </span>
+      <span
+        className="favorite"
+        data-addurl="/add-favorite"
+        data-articleid="1292665"
+        data-deleteurl="/delete-favorite"
+        data-key="1292665"
+        data-title="Francis Fukuyama: 'Een muur bouwen is makkelijker dan robots stukslaan'"
+        data-url="https://fd.nl/futures/1292665/een-muur-bouwen-is-makkelijker-dan-robots-stukslaan"
+        id="favorite1292665"
+        title="Bewaren"
+      >
+        <i
+          className="icon-bookmark"
+          title="Bewaren"
+        />
+        <i
+          className="icon-bookmark1"
+          title="Verwijder van bewaarlijst"
+        />
+        <span
+          className="icon-label"
+        >
+          Bewaren
+        </span>
+      </span>
+      <a
+        className="comments-link"
+        data-articleid="1292665"
+        href="https://fd.nl/futures/1292665/een-muur-bouwen-is-makkelijker-dan-robots-stukslaan#comments"
+      />
+    </menu>
+  </footer>
+</div>
+`;
+
+exports[`SquareTeaser renders hidden footer correctly 1`] = `
+<div
+  cardStyle="default"
+  className="fd-card fd-square-teaser default"
+  id="1292665"
+>
+  <a
+    href="https://fd.nl/futures/1292665/een-muur-bouwen-is-makkelijker-dan-robots-stukslaan"
+  >
+    <figure
+      className="fd-teaser-figure"
+    >
+      <picture>
+        <source
+          media="(max-width: 640px)"
+          srcSet="https://images.fd.nl/nheGAUNYeo_AjGfa7ob4cqxoreI.jpg?fit=crop&crop=faces&auto=format&fm=jpg&q=45&w=599&h=337&rect=.0%2C.1557223264540338%2C.9999999999999999%2C.8442776735459663"
+        />
+        <source
+          media="(max-width: 860px)"
+          srcSet="https://images.fd.nl/nheGAUNYeo_AjGfa7ob4cqxoreI.jpg?fit=crop&crop=faces&auto=format&fm=jpg&q=45&w=115&h=115&rect=.20625%2C.0%2C.66625%2C.9999999999999999"
+        />
+        <source
+          media="(min-width: 861px)"
+          srcSet="https://images.fd.nl/nheGAUNYeo_AjGfa7ob4cqxoreI.jpg?fit=crop&crop=faces&auto=format&fm=jpg&q=45&w=300&h=169&rect=.0%2C.1557223264540338%2C.9999999999999999%2C.8442776735459663"
+        />
+        <img
+          alt="Amsterdam doet ertoe"
+          src="https://images.fd.nl/nheGAUNYeo_AjGfa7ob4cqxoreI.jpg?fit=crop&crop=faces&auto=format&fm=jpg&q=45&w=599&h=337&rect=.0%2C.1557223264540338%2C.9999999999999999%2C.8442776735459663"
+        />
+      </picture>
+    </figure>
+    <div
+      className="meta"
+    >
+      <span
+        className="prefix"
+      >
+        Samenleving
+      </span>
+      <time>
+        6 uur
+      </time>
+    </div>
+    <div
+      className="text-container"
+    >
+      <h1
+        className="fd-typography square-teaser-h"
+        textStyle="square-teaser-h"
+      >
+        Francis Fukuyama: 'Een muur bouwen is makkelijker dan robots stukslaan'
+      </h1>
+      <p
+        className="intro"
+      >
+        Identiteitspolitiek leidt zowel op links als op rechts tot uitwassen zoals de muur van Trump, zegt Francis Fukuyama. We kunnen ons beter druk maken over andere kwesties, zoals robotisering.
+      </p>
+    </div>
+  </a>
+  <nav
+    className="related"
+  >
+    <a
+      className="related-link longread"
+      href="https://dev.fd.nl/profiel/1235280/als-vrouw-moet-je-onafhankelijk-zijn"
+    >
+      <span
+        className="related-title"
+      >
+        ‘Als vrouw moet je altijd onafhankelijk zijn’
+      </span>
+      <i
+        className="icon-chevron-right"
+      />
+    </a>
+    <a
+      className="related-link"
+      href="https://dev.fd.nl/economie-politiek/1235274/president-van-de-amerikaanse-fed-hamert-op-onafhankelijkheid"
+    >
+      <span
+        className="related-title"
+      >
+        President van de Amerikaanse Fed hamert op onafhankelijkheid
+      </span>
+      <i
+        className="icon-chevron-right"
+      />
+    </a>
+  </nav>
+</div>
+`;
+
+exports[`SquareTeaser renders hidden meta correctly 1`] = `
+<div
+  cardStyle="default"
+  className="fd-card fd-square-teaser default"
+  id="1292665"
+>
+  <a
+    href="https://fd.nl/futures/1292665/een-muur-bouwen-is-makkelijker-dan-robots-stukslaan"
+  >
+    <figure
+      className="fd-teaser-figure"
+    >
+      <picture>
+        <source
+          media="(max-width: 640px)"
+          srcSet="https://images.fd.nl/nheGAUNYeo_AjGfa7ob4cqxoreI.jpg?fit=crop&crop=faces&auto=format&fm=jpg&q=45&w=599&h=337&rect=.0%2C.1557223264540338%2C.9999999999999999%2C.8442776735459663"
+        />
+        <source
+          media="(max-width: 860px)"
+          srcSet="https://images.fd.nl/nheGAUNYeo_AjGfa7ob4cqxoreI.jpg?fit=crop&crop=faces&auto=format&fm=jpg&q=45&w=115&h=115&rect=.20625%2C.0%2C.66625%2C.9999999999999999"
+        />
+        <source
+          media="(min-width: 861px)"
+          srcSet="https://images.fd.nl/nheGAUNYeo_AjGfa7ob4cqxoreI.jpg?fit=crop&crop=faces&auto=format&fm=jpg&q=45&w=300&h=169&rect=.0%2C.1557223264540338%2C.9999999999999999%2C.8442776735459663"
+        />
+        <img
+          alt="Amsterdam doet ertoe"
+          src="https://images.fd.nl/nheGAUNYeo_AjGfa7ob4cqxoreI.jpg?fit=crop&crop=faces&auto=format&fm=jpg&q=45&w=599&h=337&rect=.0%2C.1557223264540338%2C.9999999999999999%2C.8442776735459663"
+        />
+      </picture>
+    </figure>
+    <div
+      className="meta"
+    >
+      <span
+        className="prefix"
+      >
+        Samenleving
+      </span>
+      <time>
+        6 uur
+      </time>
+    </div>
+    <div
+      className="text-container"
+    >
+      <h1
+        className="fd-typography square-teaser-h"
+        textStyle="square-teaser-h"
+      >
+        Francis Fukuyama: 'Een muur bouwen is makkelijker dan robots stukslaan'
+      </h1>
+      <p
+        className="intro"
+      >
+        Identiteitspolitiek leidt zowel op links als op rechts tot uitwassen zoals de muur van Trump, zegt Francis Fukuyama. We kunnen ons beter druk maken over andere kwesties, zoals robotisering.
+      </p>
+    </div>
+  </a>
+  <nav
+    className="related"
+  >
+    <a
+      className="related-link longread"
+      href="https://dev.fd.nl/profiel/1235280/als-vrouw-moet-je-onafhankelijk-zijn"
+    >
+      <span
+        className="related-title"
+      >
+        ‘Als vrouw moet je altijd onafhankelijk zijn’
+      </span>
+      <i
+        className="icon-chevron-right"
+      />
+    </a>
+    <a
+      className="related-link"
+      href="https://dev.fd.nl/economie-politiek/1235274/president-van-de-amerikaanse-fed-hamert-op-onafhankelijkheid"
+    >
+      <span
+        className="related-title"
+      >
+        President van de Amerikaanse Fed hamert op onafhankelijkheid
+      </span>
+      <i
+        className="icon-chevron-right"
+      />
+    </a>
+  </nav>
+  <footer
+    className="fd-teaser-footer"
+  >
+    <menu>
+      <span
+        className="placeholder"
+      />
+      <span
+        className="share-social"
+      >
+        <i
+          className="icon-share-alt"
+          data-id="1292665"
+          data-section="Samenleving"
+          data-title="Francis Fukuyama: 'Een muur bouwen is makkelijker dan robots stukslaan'"
+          data-url="https://fd.nl/futures/1292665/een-muur-bouwen-is-makkelijker-dan-robots-stukslaan"
+          title="Delen"
+        />
+        <span
+          className="icon-label"
+        >
+          Delen
+        </span>
+      </span>
+      <span
+        className="favorite"
+        data-addurl="/add-favorite"
+        data-articleid="1292665"
+        data-deleteurl="/delete-favorite"
+        data-key="1292665"
+        data-title="Francis Fukuyama: 'Een muur bouwen is makkelijker dan robots stukslaan'"
+        data-url="https://fd.nl/futures/1292665/een-muur-bouwen-is-makkelijker-dan-robots-stukslaan"
+        id="favorite1292665"
+        title="Bewaren"
+      >
+        <i
+          className="icon-bookmark"
+          title="Bewaren"
+        />
+        <i
+          className="icon-bookmark1"
+          title="Verwijder van bewaarlijst"
+        />
+        <span
+          className="icon-label"
+        >
+          Bewaren
+        </span>
+      </span>
+      <a
+        className="comments-link"
+        data-articleid="1292665"
+        href="https://fd.nl/futures/1292665/een-muur-bouwen-is-makkelijker-dan-robots-stukslaan#comments"
+      />
+    </menu>
+  </footer>
+</div>
+`;
+
+exports[`SquareTeaser renders hidden related correctly 1`] = `
+<div
+  cardStyle="default"
+  className="fd-card fd-square-teaser default"
+  id="1292665"
+>
+  <a
+    href="https://fd.nl/futures/1292665/een-muur-bouwen-is-makkelijker-dan-robots-stukslaan"
+  >
+    <figure
+      className="fd-teaser-figure"
+    >
+      <picture>
+        <source
+          media="(max-width: 640px)"
+          srcSet="https://images.fd.nl/nheGAUNYeo_AjGfa7ob4cqxoreI.jpg?fit=crop&crop=faces&auto=format&fm=jpg&q=45&w=599&h=337&rect=.0%2C.1557223264540338%2C.9999999999999999%2C.8442776735459663"
+        />
+        <source
+          media="(max-width: 860px)"
+          srcSet="https://images.fd.nl/nheGAUNYeo_AjGfa7ob4cqxoreI.jpg?fit=crop&crop=faces&auto=format&fm=jpg&q=45&w=115&h=115&rect=.20625%2C.0%2C.66625%2C.9999999999999999"
+        />
+        <source
+          media="(min-width: 861px)"
+          srcSet="https://images.fd.nl/nheGAUNYeo_AjGfa7ob4cqxoreI.jpg?fit=crop&crop=faces&auto=format&fm=jpg&q=45&w=300&h=169&rect=.0%2C.1557223264540338%2C.9999999999999999%2C.8442776735459663"
+        />
+        <img
+          alt="Amsterdam doet ertoe"
+          src="https://images.fd.nl/nheGAUNYeo_AjGfa7ob4cqxoreI.jpg?fit=crop&crop=faces&auto=format&fm=jpg&q=45&w=599&h=337&rect=.0%2C.1557223264540338%2C.9999999999999999%2C.8442776735459663"
+        />
+      </picture>
+    </figure>
+    <div
+      className="meta"
+    >
+      <span
+        className="prefix"
+      >
+        Samenleving
+      </span>
+      <time>
+        6 uur
+      </time>
+    </div>
+    <div
+      className="text-container"
+    >
+      <h1
+        className="fd-typography square-teaser-h"
+        textStyle="square-teaser-h"
+      >
+        Francis Fukuyama: 'Een muur bouwen is makkelijker dan robots stukslaan'
+      </h1>
+      <p
+        className="intro"
+      >
+        Identiteitspolitiek leidt zowel op links als op rechts tot uitwassen zoals de muur van Trump, zegt Francis Fukuyama. We kunnen ons beter druk maken over andere kwesties, zoals robotisering.
+      </p>
+    </div>
+  </a>
+  <nav
+    className="related"
+  >
+    <a
+      className="related-link longread"
+      href="https://dev.fd.nl/profiel/1235280/als-vrouw-moet-je-onafhankelijk-zijn"
+    >
+      <span
+        className="related-title"
+      >
+        ‘Als vrouw moet je altijd onafhankelijk zijn’
+      </span>
+      <i
+        className="icon-chevron-right"
+      />
+    </a>
+    <a
+      className="related-link"
+      href="https://dev.fd.nl/economie-politiek/1235274/president-van-de-amerikaanse-fed-hamert-op-onafhankelijkheid"
+    >
+      <span
+        className="related-title"
+      >
+        President van de Amerikaanse Fed hamert op onafhankelijkheid
+      </span>
+      <i
+        className="icon-chevron-right"
+      />
+    </a>
+  </nav>
+  <footer
+    className="fd-teaser-footer"
+  >
+    <menu>
+      <span
+        className="placeholder"
+      />
+      <span
+        className="share-social"
+      >
+        <i
+          className="icon-share-alt"
+          data-id="1292665"
+          data-section="Samenleving"
+          data-title="Francis Fukuyama: 'Een muur bouwen is makkelijker dan robots stukslaan'"
+          data-url="https://fd.nl/futures/1292665/een-muur-bouwen-is-makkelijker-dan-robots-stukslaan"
+          title="Delen"
+        />
+        <span
+          className="icon-label"
+        >
+          Delen
+        </span>
+      </span>
+      <span
+        className="favorite"
+        data-addurl="/add-favorite"
+        data-articleid="1292665"
+        data-deleteurl="/delete-favorite"
+        data-key="1292665"
+        data-title="Francis Fukuyama: 'Een muur bouwen is makkelijker dan robots stukslaan'"
+        data-url="https://fd.nl/futures/1292665/een-muur-bouwen-is-makkelijker-dan-robots-stukslaan"
+        id="favorite1292665"
+        title="Bewaren"
+      >
+        <i
+          className="icon-bookmark"
+          title="Bewaren"
+        />
+        <i
+          className="icon-bookmark1"
+          title="Verwijder van bewaarlijst"
+        />
+        <span
+          className="icon-label"
+        >
+          Bewaren
+        </span>
+      </span>
+      <a
+        className="comments-link"
+        data-articleid="1292665"
+        href="https://fd.nl/futures/1292665/een-muur-bouwen-is-makkelijker-dan-robots-stukslaan#comments"
+      />
+    </menu>
+  </footer>
+</div>
+`;
+
+exports[`SquareTeaser renders longread correctly 1`] = `
+<div
+  cardStyle="longread"
+  className="fd-card fd-square-teaser longread"
+  id="1292665"
+>
+  <a
+    href="https://fd.nl/futures/1292665/een-muur-bouwen-is-makkelijker-dan-robots-stukslaan"
+  >
+    <figure
+      className="fd-teaser-figure"
+    >
+      <picture>
+        <source
+          media="(max-width: 640px)"
+          srcSet="https://images.fd.nl/nheGAUNYeo_AjGfa7ob4cqxoreI.jpg?fit=crop&crop=faces&auto=format&fm=jpg&q=45&w=599&h=337&rect=.0%2C.1557223264540338%2C.9999999999999999%2C.8442776735459663"
+        />
+        <source
+          media="(max-width: 860px)"
+          srcSet="https://images.fd.nl/nheGAUNYeo_AjGfa7ob4cqxoreI.jpg?fit=crop&crop=faces&auto=format&fm=jpg&q=45&w=115&h=115&rect=.20625%2C.0%2C.66625%2C.9999999999999999"
+        />
+        <source
+          media="(min-width: 861px)"
+          srcSet="https://images.fd.nl/nheGAUNYeo_AjGfa7ob4cqxoreI.jpg?fit=crop&crop=faces&auto=format&fm=jpg&q=45&w=300&h=169&rect=.0%2C.1557223264540338%2C.9999999999999999%2C.8442776735459663"
+        />
+        <img
+          alt="Amsterdam doet ertoe"
+          src="https://images.fd.nl/nheGAUNYeo_AjGfa7ob4cqxoreI.jpg?fit=crop&crop=faces&auto=format&fm=jpg&q=45&w=599&h=337&rect=.0%2C.1557223264540338%2C.9999999999999999%2C.8442776735459663"
+        />
+      </picture>
+    </figure>
+    <div
+      className="meta"
+    >
+      <span
+        className="prefix"
+      >
+        Samenleving
+      </span>
+      <time>
+        6 uur
+      </time>
+    </div>
+    <div
+      className="text-container"
+    >
+      <h1
+        className="fd-typography square-teaser-h"
+        textStyle="square-teaser-h"
+      >
+        Francis Fukuyama: 'Een muur bouwen is makkelijker dan robots stukslaan'
+      </h1>
+      <p
+        className="intro"
+      >
+        Identiteitspolitiek leidt zowel op links als op rechts tot uitwassen zoals de muur van Trump, zegt Francis Fukuyama. We kunnen ons beter druk maken over andere kwesties, zoals robotisering.
+      </p>
+    </div>
+  </a>
+  <nav
+    className="related"
+  >
+    <a
+      className="related-link longread"
+      href="https://dev.fd.nl/profiel/1235280/als-vrouw-moet-je-onafhankelijk-zijn"
+    >
+      <span
+        className="related-title"
+      >
+        ‘Als vrouw moet je altijd onafhankelijk zijn’
+      </span>
+      <i
+        className="icon-chevron-right"
+      />
+    </a>
+    <a
+      className="related-link"
+      href="https://dev.fd.nl/economie-politiek/1235274/president-van-de-amerikaanse-fed-hamert-op-onafhankelijkheid"
+    >
+      <span
+        className="related-title"
+      >
+        President van de Amerikaanse Fed hamert op onafhankelijkheid
+      </span>
+      <i
+        className="icon-chevron-right"
+      />
+    </a>
+  </nav>
+  <footer
+    className="fd-teaser-footer"
+  >
+    <menu>
+      <span
+        className="placeholder"
+      />
+      <span
+        className="share-social"
+      >
+        <i
+          className="icon-share-alt"
+          data-id="1292665"
+          data-section="Samenleving"
+          data-title="Francis Fukuyama: 'Een muur bouwen is makkelijker dan robots stukslaan'"
+          data-url="https://fd.nl/futures/1292665/een-muur-bouwen-is-makkelijker-dan-robots-stukslaan"
+          title="Delen"
+        />
+        <span
+          className="icon-label"
+        >
+          Delen
+        </span>
+      </span>
+      <span
+        className="favorite"
+        data-addurl="/add-favorite"
+        data-articleid="1292665"
+        data-deleteurl="/delete-favorite"
+        data-key="1292665"
+        data-title="Francis Fukuyama: 'Een muur bouwen is makkelijker dan robots stukslaan'"
+        data-url="https://fd.nl/futures/1292665/een-muur-bouwen-is-makkelijker-dan-robots-stukslaan"
+        id="favorite1292665"
+        title="Bewaren"
+      >
+        <i
+          className="icon-bookmark"
+          title="Bewaren"
+        />
+        <i
+          className="icon-bookmark1"
+          title="Verwijder van bewaarlijst"
+        />
+        <span
+          className="icon-label"
+        >
+          Bewaren
+        </span>
+      </span>
+      <a
+        className="comments-link"
+        data-articleid="1292665"
+        href="https://fd.nl/futures/1292665/een-muur-bouwen-is-makkelijker-dan-robots-stukslaan#comments"
+      />
+    </menu>
+  </footer>
+</div>
+`;
+
+exports[`SquareTeaser renders multiple comments correctly 1`] = `
+<div
+  cardStyle="default"
+  className="fd-card fd-square-teaser default"
+  id="1292665"
+>
+  <a
+    href="https://fd.nl/futures/1292665/een-muur-bouwen-is-makkelijker-dan-robots-stukslaan"
+  >
+    <figure
+      className="fd-teaser-figure"
+    >
+      <picture>
+        <source
+          media="(max-width: 640px)"
+          srcSet="https://images.fd.nl/nheGAUNYeo_AjGfa7ob4cqxoreI.jpg?fit=crop&crop=faces&auto=format&fm=jpg&q=45&w=599&h=337&rect=.0%2C.1557223264540338%2C.9999999999999999%2C.8442776735459663"
+        />
+        <source
+          media="(max-width: 860px)"
+          srcSet="https://images.fd.nl/nheGAUNYeo_AjGfa7ob4cqxoreI.jpg?fit=crop&crop=faces&auto=format&fm=jpg&q=45&w=115&h=115&rect=.20625%2C.0%2C.66625%2C.9999999999999999"
+        />
+        <source
+          media="(min-width: 861px)"
+          srcSet="https://images.fd.nl/nheGAUNYeo_AjGfa7ob4cqxoreI.jpg?fit=crop&crop=faces&auto=format&fm=jpg&q=45&w=300&h=169&rect=.0%2C.1557223264540338%2C.9999999999999999%2C.8442776735459663"
+        />
+        <img
+          alt="Amsterdam doet ertoe"
+          src="https://images.fd.nl/nheGAUNYeo_AjGfa7ob4cqxoreI.jpg?fit=crop&crop=faces&auto=format&fm=jpg&q=45&w=599&h=337&rect=.0%2C.1557223264540338%2C.9999999999999999%2C.8442776735459663"
+        />
+      </picture>
+    </figure>
+    <div
+      className="meta"
+    >
+      <span
+        className="prefix"
+      >
+        Samenleving
+      </span>
+      <time>
+        6 uur
+      </time>
+    </div>
+    <div
+      className="text-container"
+    >
+      <h1
+        className="fd-typography square-teaser-h"
+        textStyle="square-teaser-h"
+      >
+        Francis Fukuyama: 'Een muur bouwen is makkelijker dan robots stukslaan'
+      </h1>
+      <p
+        className="intro"
+      >
+        Identiteitspolitiek leidt zowel op links als op rechts tot uitwassen zoals de muur van Trump, zegt Francis Fukuyama. We kunnen ons beter druk maken over andere kwesties, zoals robotisering.
+      </p>
+    </div>
+  </a>
+  <nav
+    className="related"
+  >
+    <a
+      className="related-link longread"
+      href="https://dev.fd.nl/profiel/1235280/als-vrouw-moet-je-onafhankelijk-zijn"
+    >
+      <span
+        className="related-title"
+      >
+        ‘Als vrouw moet je altijd onafhankelijk zijn’
+      </span>
+      <i
+        className="icon-chevron-right"
+      />
+    </a>
+    <a
+      className="related-link"
+      href="https://dev.fd.nl/economie-politiek/1235274/president-van-de-amerikaanse-fed-hamert-op-onafhankelijkheid"
+    >
+      <span
+        className="related-title"
+      >
+        President van de Amerikaanse Fed hamert op onafhankelijkheid
+      </span>
+      <i
+        className="icon-chevron-right"
+      />
+    </a>
+  </nav>
+  <footer
+    className="fd-teaser-footer"
+  >
+    <menu>
+      <span
+        className="placeholder"
+      />
+      <span
+        className="share-social"
+      >
+        <i
+          className="icon-share-alt"
+          data-id="1292665"
+          data-section="Samenleving"
+          data-title="Francis Fukuyama: 'Een muur bouwen is makkelijker dan robots stukslaan'"
+          data-url="https://fd.nl/futures/1292665/een-muur-bouwen-is-makkelijker-dan-robots-stukslaan"
+          title="Delen"
+        />
+        <span
+          className="icon-label"
+        >
+          Delen
+        </span>
+      </span>
+      <span
+        className="favorite"
+        data-addurl="/add-favorite"
+        data-articleid="1292665"
+        data-deleteurl="/delete-favorite"
+        data-key="1292665"
+        data-title="Francis Fukuyama: 'Een muur bouwen is makkelijker dan robots stukslaan'"
+        data-url="https://fd.nl/futures/1292665/een-muur-bouwen-is-makkelijker-dan-robots-stukslaan"
+        id="favorite1292665"
+        title="Bewaren"
+      >
+        <i
+          className="icon-bookmark"
+          title="Bewaren"
+        />
+        <i
+          className="icon-bookmark1"
+          title="Verwijder van bewaarlijst"
+        />
+        <span
+          className="icon-label"
+        >
+          Bewaren
+        </span>
+      </span>
+      <a
+        className="comments-link"
+        data-articleid="1292665"
+        href="https://fd.nl/futures/1292665/een-muur-bouwen-is-makkelijker-dan-robots-stukslaan#comments"
+      >
+        <i
+          className="icon-comment-alt"
+        />
+        <span
+          className="comments-count"
+        >
+          99
+        </span>
+        <span
+          className="comments-suffix"
+        >
+          reacties
+        </span>
+      </a>
+    </menu>
+  </footer>
+</div>
+`;
+
+exports[`SquareTeaser renders persoonlijk correctly 1`] = `
+<div
+  cardStyle="persoonlijk"
+  className="fd-card fd-square-teaser persoonlijk"
+  id="1292665"
+>
+  <a
+    href="https://fd.nl/futures/1292665/een-muur-bouwen-is-makkelijker-dan-robots-stukslaan"
+  >
+    <figure
+      className="fd-teaser-figure"
+    >
+      <picture>
+        <source
+          media="(max-width: 640px)"
+          srcSet="https://images.fd.nl/nheGAUNYeo_AjGfa7ob4cqxoreI.jpg?fit=crop&crop=faces&auto=format&fm=jpg&q=45&w=599&h=337&rect=.0%2C.1557223264540338%2C.9999999999999999%2C.8442776735459663"
+        />
+        <source
+          media="(max-width: 860px)"
+          srcSet="https://images.fd.nl/nheGAUNYeo_AjGfa7ob4cqxoreI.jpg?fit=crop&crop=faces&auto=format&fm=jpg&q=45&w=115&h=115&rect=.20625%2C.0%2C.66625%2C.9999999999999999"
+        />
+        <source
+          media="(min-width: 861px)"
+          srcSet="https://images.fd.nl/nheGAUNYeo_AjGfa7ob4cqxoreI.jpg?fit=crop&crop=faces&auto=format&fm=jpg&q=45&w=300&h=169&rect=.0%2C.1557223264540338%2C.9999999999999999%2C.8442776735459663"
+        />
+        <img
+          alt="Amsterdam doet ertoe"
+          src="https://images.fd.nl/nheGAUNYeo_AjGfa7ob4cqxoreI.jpg?fit=crop&crop=faces&auto=format&fm=jpg&q=45&w=599&h=337&rect=.0%2C.1557223264540338%2C.9999999999999999%2C.8442776735459663"
+        />
+      </picture>
+    </figure>
+    <div
+      className="meta"
+    >
+      <span
+        className="prefix"
+      >
+        Samenleving
+      </span>
+      <time>
+        6 uur
+      </time>
+    </div>
+    <div
+      className="text-container"
+    >
+      <h1
+        className="fd-typography square-teaser-h"
+        textStyle="square-teaser-h"
+      >
+        Francis Fukuyama: 'Een muur bouwen is makkelijker dan robots stukslaan'
+      </h1>
+      <p
+        className="intro"
+      >
+        Identiteitspolitiek leidt zowel op links als op rechts tot uitwassen zoals de muur van Trump, zegt Francis Fukuyama. We kunnen ons beter druk maken over andere kwesties, zoals robotisering.
+      </p>
+    </div>
+  </a>
+  <nav
+    className="related"
+  >
+    <a
+      className="related-link longread"
+      href="https://dev.fd.nl/profiel/1235280/als-vrouw-moet-je-onafhankelijk-zijn"
+    >
+      <span
+        className="related-title"
+      >
+        ‘Als vrouw moet je altijd onafhankelijk zijn’
+      </span>
+      <i
+        className="icon-chevron-right"
+      />
+    </a>
+    <a
+      className="related-link"
+      href="https://dev.fd.nl/economie-politiek/1235274/president-van-de-amerikaanse-fed-hamert-op-onafhankelijkheid"
+    >
+      <span
+        className="related-title"
+      >
+        President van de Amerikaanse Fed hamert op onafhankelijkheid
+      </span>
+      <i
+        className="icon-chevron-right"
+      />
+    </a>
+  </nav>
+  <footer
+    className="fd-teaser-footer"
+  >
+    <menu>
+      <span
+        className="placeholder"
+      />
+      <span
+        className="share-social"
+      >
+        <i
+          className="icon-share-alt"
+          data-id="1292665"
+          data-section="Samenleving"
+          data-title="Francis Fukuyama: 'Een muur bouwen is makkelijker dan robots stukslaan'"
+          data-url="https://fd.nl/futures/1292665/een-muur-bouwen-is-makkelijker-dan-robots-stukslaan"
+          title="Delen"
+        />
+        <span
+          className="icon-label"
+        >
+          Delen
+        </span>
+      </span>
+      <span
+        className="favorite"
+        data-addurl="/add-favorite"
+        data-articleid="1292665"
+        data-deleteurl="/delete-favorite"
+        data-key="1292665"
+        data-title="Francis Fukuyama: 'Een muur bouwen is makkelijker dan robots stukslaan'"
+        data-url="https://fd.nl/futures/1292665/een-muur-bouwen-is-makkelijker-dan-robots-stukslaan"
+        id="favorite1292665"
+        title="Bewaren"
+      >
+        <i
+          className="icon-bookmark"
+          title="Bewaren"
+        />
+        <i
+          className="icon-bookmark1"
+          title="Verwijder van bewaarlijst"
+        />
+        <span
+          className="icon-label"
+        >
+          Bewaren
+        </span>
+      </span>
+      <a
+        className="comments-link"
+        data-articleid="1292665"
+        href="https://fd.nl/futures/1292665/een-muur-bouwen-is-makkelijker-dan-robots-stukslaan#comments"
+      />
+    </menu>
+  </footer>
+</div>
+`;
+
+exports[`SquareTeaser renders persoonlijk longread correctly 1`] = `
+<div
+  cardStyle="persoonlijk longread"
+  className="fd-card fd-square-teaser persoonlijk longread"
+  id="1292665"
+>
+  <a
+    href="https://fd.nl/futures/1292665/een-muur-bouwen-is-makkelijker-dan-robots-stukslaan"
+  >
+    <figure
+      className="fd-teaser-figure"
+    >
+      <picture>
+        <source
+          media="(max-width: 640px)"
+          srcSet="https://images.fd.nl/nheGAUNYeo_AjGfa7ob4cqxoreI.jpg?fit=crop&crop=faces&auto=format&fm=jpg&q=45&w=599&h=337&rect=.0%2C.1557223264540338%2C.9999999999999999%2C.8442776735459663"
+        />
+        <source
+          media="(max-width: 860px)"
+          srcSet="https://images.fd.nl/nheGAUNYeo_AjGfa7ob4cqxoreI.jpg?fit=crop&crop=faces&auto=format&fm=jpg&q=45&w=115&h=115&rect=.20625%2C.0%2C.66625%2C.9999999999999999"
+        />
+        <source
+          media="(min-width: 861px)"
+          srcSet="https://images.fd.nl/nheGAUNYeo_AjGfa7ob4cqxoreI.jpg?fit=crop&crop=faces&auto=format&fm=jpg&q=45&w=300&h=169&rect=.0%2C.1557223264540338%2C.9999999999999999%2C.8442776735459663"
+        />
+        <img
+          alt="Amsterdam doet ertoe"
+          src="https://images.fd.nl/nheGAUNYeo_AjGfa7ob4cqxoreI.jpg?fit=crop&crop=faces&auto=format&fm=jpg&q=45&w=599&h=337&rect=.0%2C.1557223264540338%2C.9999999999999999%2C.8442776735459663"
+        />
+      </picture>
+    </figure>
+    <div
+      className="meta"
+    >
+      <span
+        className="prefix"
+      >
+        Samenleving
+      </span>
+      <time>
+        6 uur
+      </time>
+    </div>
+    <div
+      className="text-container"
+    >
+      <h1
+        className="fd-typography square-teaser-h"
+        textStyle="square-teaser-h"
+      >
+        Francis Fukuyama: 'Een muur bouwen is makkelijker dan robots stukslaan'
+      </h1>
+      <p
+        className="intro"
+      >
+        Identiteitspolitiek leidt zowel op links als op rechts tot uitwassen zoals de muur van Trump, zegt Francis Fukuyama. We kunnen ons beter druk maken over andere kwesties, zoals robotisering.
+      </p>
+    </div>
+  </a>
+  <nav
+    className="related"
+  >
+    <a
+      className="related-link longread"
+      href="https://dev.fd.nl/profiel/1235280/als-vrouw-moet-je-onafhankelijk-zijn"
+    >
+      <span
+        className="related-title"
+      >
+        ‘Als vrouw moet je altijd onafhankelijk zijn’
+      </span>
+      <i
+        className="icon-chevron-right"
+      />
+    </a>
+    <a
+      className="related-link"
+      href="https://dev.fd.nl/economie-politiek/1235274/president-van-de-amerikaanse-fed-hamert-op-onafhankelijkheid"
+    >
+      <span
+        className="related-title"
+      >
+        President van de Amerikaanse Fed hamert op onafhankelijkheid
+      </span>
+      <i
+        className="icon-chevron-right"
+      />
+    </a>
+  </nav>
+  <footer
+    className="fd-teaser-footer"
+  >
+    <menu>
+      <span
+        className="placeholder"
+      />
+      <span
+        className="share-social"
+      >
+        <i
+          className="icon-share-alt"
+          data-id="1292665"
+          data-section="Samenleving"
+          data-title="Francis Fukuyama: 'Een muur bouwen is makkelijker dan robots stukslaan'"
+          data-url="https://fd.nl/futures/1292665/een-muur-bouwen-is-makkelijker-dan-robots-stukslaan"
+          title="Delen"
+        />
+        <span
+          className="icon-label"
+        >
+          Delen
+        </span>
+      </span>
+      <span
+        className="favorite"
+        data-addurl="/add-favorite"
+        data-articleid="1292665"
+        data-deleteurl="/delete-favorite"
+        data-key="1292665"
+        data-title="Francis Fukuyama: 'Een muur bouwen is makkelijker dan robots stukslaan'"
+        data-url="https://fd.nl/futures/1292665/een-muur-bouwen-is-makkelijker-dan-robots-stukslaan"
+        id="favorite1292665"
+        title="Bewaren"
+      >
+        <i
+          className="icon-bookmark"
+          title="Bewaren"
+        />
+        <i
+          className="icon-bookmark1"
+          title="Verwijder van bewaarlijst"
+        />
+        <span
+          className="icon-label"
+        >
+          Bewaren
+        </span>
+      </span>
+      <a
+        className="comments-link"
+        data-articleid="1292665"
+        href="https://fd.nl/futures/1292665/een-muur-bouwen-is-makkelijker-dan-robots-stukslaan#comments"
+      />
+    </menu>
+  </footer>
+</div>
+`;
