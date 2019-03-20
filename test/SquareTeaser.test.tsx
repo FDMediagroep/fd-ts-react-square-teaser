@@ -23,6 +23,7 @@ describe('SquareTeaser', () => {
             srcSet: `https://images.fd.nl/nheGAUNYeo_AjGfa7ob4cqxoreI.jpg?fit=crop&crop=faces&auto=format&fm=jpg&q=45&w=300&h=169&rect=.0%2C.1557223264540338%2C.9999999999999999%2C.8442776735459663`
         }],
         figCaption: "Francis Fukuyama: 'Een muur bouwen is makkelijker dan robots stukslaan'",
+        onBookmark: () => {},
         subject: "Samenleving",
         readableAge: "6 uur",
         date: "17 Nov 1981",
