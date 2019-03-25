@@ -96,8 +96,9 @@ exports[`SquareTeaser renders bookmarked correctly 1`] = `
       <span
         className="placeholder"
       />
-      <span
+      <a
         className="share-social"
+        href="javascript: void(0);"
       >
         <i
           className="icon-share-alt"
@@ -112,8 +113,8 @@ exports[`SquareTeaser renders bookmarked correctly 1`] = `
         >
           Delen
         </span>
-      </span>
-      <span
+      </a>
+      <a
         className="favorite selected"
         data-addurl="/add-favorite"
         data-articleid="1292665"
@@ -121,6 +122,7 @@ exports[`SquareTeaser renders bookmarked correctly 1`] = `
         data-key="1292665"
         data-title="Francis Fukuyama: 'Een muur bouwen is makkelijker dan robots stukslaan'"
         data-url="https://fd.nl/futures/1292665/een-muur-bouwen-is-makkelijker-dan-robots-stukslaan"
+        href="javascript: void(0);"
         id="favorite1292665"
         onClick={[Function]}
         title="Bewaren"
@@ -138,7 +140,7 @@ exports[`SquareTeaser renders bookmarked correctly 1`] = `
         >
           Bewaren
         </span>
-      </span>
+      </a>
       <a
         className="comments-link"
         data-articleid="1292665"
@@ -245,8 +247,9 @@ exports[`SquareTeaser renders correctly 1`] = `
       <span
         className="placeholder"
       />
-      <span
+      <a
         className="share-social"
+        href="javascript: void(0);"
       >
         <i
           className="icon-share-alt"
@@ -261,8 +264,8 @@ exports[`SquareTeaser renders correctly 1`] = `
         >
           Delen
         </span>
-      </span>
-      <span
+      </a>
+      <a
         className="favorite"
         data-addurl="/add-favorite"
         data-articleid="1292665"
@@ -270,6 +273,7 @@ exports[`SquareTeaser renders correctly 1`] = `
         data-key="1292665"
         data-title="Francis Fukuyama: 'Een muur bouwen is makkelijker dan robots stukslaan'"
         data-url="https://fd.nl/futures/1292665/een-muur-bouwen-is-makkelijker-dan-robots-stukslaan"
+        href="javascript: void(0);"
         id="favorite1292665"
         onClick={[Function]}
         title="Bewaren"
@@ -287,7 +291,7 @@ exports[`SquareTeaser renders correctly 1`] = `
         >
           Bewaren
         </span>
-      </span>
+      </a>
       <a
         className="comments-link"
         data-articleid="1292665"
@@ -486,8 +490,9 @@ exports[`SquareTeaser renders hidden meta correctly 1`] = `
       <span
         className="placeholder"
       />
-      <span
+      <a
         className="share-social"
+        href="javascript: void(0);"
       >
         <i
           className="icon-share-alt"
@@ -502,8 +507,8 @@ exports[`SquareTeaser renders hidden meta correctly 1`] = `
         >
           Delen
         </span>
-      </span>
-      <span
+      </a>
+      <a
         className="favorite"
         data-addurl="/add-favorite"
         data-articleid="1292665"
@@ -511,6 +516,7 @@ exports[`SquareTeaser renders hidden meta correctly 1`] = `
         data-key="1292665"
         data-title="Francis Fukuyama: 'Een muur bouwen is makkelijker dan robots stukslaan'"
         data-url="https://fd.nl/futures/1292665/een-muur-bouwen-is-makkelijker-dan-robots-stukslaan"
+        href="javascript: void(0);"
         id="favorite1292665"
         onClick={[Function]}
         title="Bewaren"
@@ -528,7 +534,7 @@ exports[`SquareTeaser renders hidden meta correctly 1`] = `
         >
           Bewaren
         </span>
-      </span>
+      </a>
       <a
         className="comments-link"
         data-articleid="1292665"
@@ -635,8 +641,9 @@ exports[`SquareTeaser renders hidden related correctly 1`] = `
       <span
         className="placeholder"
       />
-      <span
+      <a
         className="share-social"
+        href="javascript: void(0);"
       >
         <i
           className="icon-share-alt"
@@ -651,8 +658,8 @@ exports[`SquareTeaser renders hidden related correctly 1`] = `
         >
           Delen
         </span>
-      </span>
-      <span
+      </a>
+      <a
         className="favorite"
         data-addurl="/add-favorite"
         data-articleid="1292665"
@@ -660,6 +667,7 @@ exports[`SquareTeaser renders hidden related correctly 1`] = `
         data-key="1292665"
         data-title="Francis Fukuyama: 'Een muur bouwen is makkelijker dan robots stukslaan'"
         data-url="https://fd.nl/futures/1292665/een-muur-bouwen-is-makkelijker-dan-robots-stukslaan"
+        href="javascript: void(0);"
         id="favorite1292665"
         onClick={[Function]}
         title="Bewaren"
@@ -677,7 +685,7 @@ exports[`SquareTeaser renders hidden related correctly 1`] = `
         >
           Bewaren
         </span>
-      </span>
+      </a>
       <a
         className="comments-link"
         data-articleid="1292665"
@@ -784,8 +792,9 @@ exports[`SquareTeaser renders longread correctly 1`] = `
       <span
         className="placeholder"
       />
-      <span
+      <a
         className="share-social"
+        href="javascript: void(0);"
       >
         <i
           className="icon-share-alt"
@@ -800,8 +809,8 @@ exports[`SquareTeaser renders longread correctly 1`] = `
         >
           Delen
         </span>
-      </span>
-      <span
+      </a>
+      <a
         className="favorite"
         data-addurl="/add-favorite"
         data-articleid="1292665"
@@ -809,6 +818,7 @@ exports[`SquareTeaser renders longread correctly 1`] = `
         data-key="1292665"
         data-title="Francis Fukuyama: 'Een muur bouwen is makkelijker dan robots stukslaan'"
         data-url="https://fd.nl/futures/1292665/een-muur-bouwen-is-makkelijker-dan-robots-stukslaan"
+        href="javascript: void(0);"
         id="favorite1292665"
         onClick={[Function]}
         title="Bewaren"
@@ -826,7 +836,7 @@ exports[`SquareTeaser renders longread correctly 1`] = `
         >
           Bewaren
         </span>
-      </span>
+      </a>
       <a
         className="comments-link"
         data-articleid="1292665"
@@ -933,8 +943,9 @@ exports[`SquareTeaser renders multiple comments correctly 1`] = `
       <span
         className="placeholder"
       />
-      <span
+      <a
         className="share-social"
+        href="javascript: void(0);"
       >
         <i
           className="icon-share-alt"
@@ -949,8 +960,8 @@ exports[`SquareTeaser renders multiple comments correctly 1`] = `
         >
           Delen
         </span>
-      </span>
-      <span
+      </a>
+      <a
         className="favorite"
         data-addurl="/add-favorite"
         data-articleid="1292665"
@@ -958,6 +969,7 @@ exports[`SquareTeaser renders multiple comments correctly 1`] = `
         data-key="1292665"
         data-title="Francis Fukuyama: 'Een muur bouwen is makkelijker dan robots stukslaan'"
         data-url="https://fd.nl/futures/1292665/een-muur-bouwen-is-makkelijker-dan-robots-stukslaan"
+        href="javascript: void(0);"
         id="favorite1292665"
         onClick={[Function]}
         title="Bewaren"
@@ -975,7 +987,7 @@ exports[`SquareTeaser renders multiple comments correctly 1`] = `
         >
           Bewaren
         </span>
-      </span>
+      </a>
       <a
         className="comments-link"
         data-articleid="1292665"
@@ -1096,8 +1108,9 @@ exports[`SquareTeaser renders persoonlijk correctly 1`] = `
       <span
         className="placeholder"
       />
-      <span
+      <a
         className="share-social"
+        href="javascript: void(0);"
       >
         <i
           className="icon-share-alt"
@@ -1112,8 +1125,8 @@ exports[`SquareTeaser renders persoonlijk correctly 1`] = `
         >
           Delen
         </span>
-      </span>
-      <span
+      </a>
+      <a
         className="favorite"
         data-addurl="/add-favorite"
         data-articleid="1292665"
@@ -1121,6 +1134,7 @@ exports[`SquareTeaser renders persoonlijk correctly 1`] = `
         data-key="1292665"
         data-title="Francis Fukuyama: 'Een muur bouwen is makkelijker dan robots stukslaan'"
         data-url="https://fd.nl/futures/1292665/een-muur-bouwen-is-makkelijker-dan-robots-stukslaan"
+        href="javascript: void(0);"
         id="favorite1292665"
         onClick={[Function]}
         title="Bewaren"
@@ -1138,7 +1152,7 @@ exports[`SquareTeaser renders persoonlijk correctly 1`] = `
         >
           Bewaren
         </span>
-      </span>
+      </a>
       <a
         className="comments-link"
         data-articleid="1292665"
@@ -1245,8 +1259,9 @@ exports[`SquareTeaser renders persoonlijk longread correctly 1`] = `
       <span
         className="placeholder"
       />
-      <span
+      <a
         className="share-social"
+        href="javascript: void(0);"
       >
         <i
           className="icon-share-alt"
@@ -1261,8 +1276,8 @@ exports[`SquareTeaser renders persoonlijk longread correctly 1`] = `
         >
           Delen
         </span>
-      </span>
-      <span
+      </a>
+      <a
         className="favorite"
         data-addurl="/add-favorite"
         data-articleid="1292665"
@@ -1270,6 +1285,7 @@ exports[`SquareTeaser renders persoonlijk longread correctly 1`] = `
         data-key="1292665"
         data-title="Francis Fukuyama: 'Een muur bouwen is makkelijker dan robots stukslaan'"
         data-url="https://fd.nl/futures/1292665/een-muur-bouwen-is-makkelijker-dan-robots-stukslaan"
+        href="javascript: void(0);"
         id="favorite1292665"
         onClick={[Function]}
         title="Bewaren"
@@ -1287,7 +1303,7 @@ exports[`SquareTeaser renders persoonlijk longread correctly 1`] = `
         >
           Bewaren
         </span>
-      </span>
+      </a>
       <a
         className="comments-link"
         data-articleid="1292665"
