@@ -249,7 +249,6 @@ const styles = css`
 }
 `;
 
-const GlobalStyle = createGlobalStyle`${styles}`;
 /**
  * Used for the FD Style Guide Kitchensink
  */
@@ -262,3 +261,5 @@ ${TeaserRelatedStyle}
 ${TeaserFooterStyle}
 ${styles}
 `;
+
+const GlobalStyle = createGlobalStyle`${SquareTeaserStyle}`;
