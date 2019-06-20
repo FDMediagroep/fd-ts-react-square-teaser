@@ -1,4 +1,4 @@
-import React, { PureComponent } from "react";
+import React from "react";
 import { CardTypes } from "@fdmg/fd-card";
 import { RelatedArticle, Theme, SourceSet } from "@fdmg/fd-teaser";
 export interface Props {
@@ -28,10 +28,8 @@ export interface Props {
     updated?: boolean;
     url: string;
 }
-export default class SquareTeaser extends PureComponent<Props, any> {
-    render(): JSX.Element;
-}
+export default function SquareTeaser(props: Props): JSX.Element;
 /**
  * Used for the FD Style Guide Kitchensink
  */
-export declare const SquareTeaserStyle: import("styled-components").GlobalStyleComponent<{}, import("styled-components").DefaultTheme>;
+export declare const SquareTeaserStyle: import("styled-components").FlattenSimpleInterpolation;
