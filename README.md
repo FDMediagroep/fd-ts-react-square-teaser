@@ -1,20 +1,27 @@
+> :exclamation: **DEPRECATED** :exclamation: : Superseded by @fdmg/design-system. See: https://github.com/FDMediagroep/fd-design-system
+
 [![Build Status](https://travis-ci.org/FDMediagroep/fd-ts-react-square-teaser.svg?branch=master)](https://travis-ci.org/FDMediagroep/fd-ts-react-square-teaser)
 [![Coverage Status](https://coveralls.io/repos/github/FDMediagroep/fd-ts-react-square-teaser/badge.svg?branch=master)](https://coveralls.io/github/FDMediagroep/fd-ts-react-square-teaser?branch=master)
 [![npm version](https://badge.fury.io/js/%40fdmg%2Ffd-square-teaser.svg)](https://badge.fury.io/js/%40fdmg%2Ffd-square-teaser)
 [![Greenkeeper badge](https://badges.greenkeeper.io/FDMediagroep/fd-ts-react-square-teaser.svg)](https://greenkeeper.io/)
 
 # fd-square-teaser
+
 FD-themed square teaser.
 
 # Installation
-* Run `npm i -D @fdmg/fd-square-teaser`
+
+-   Run `npm i -D @fdmg/fd-square-teaser`
 
 # Demo
+
 To run the demo, check-out this repository and run `npm run build-demo`.
 After the build succeeded you can open `dist/demo.html` with your webbrowser.
-* [Demo](http://static.fd.nl/react/square-teaser/demo.html)
+
+-   [Demo](http://static.fd.nl/react/square-teaser/demo.html)
 
 # Usage
+
 ```
 import SquareTeaser from '@fdmg/fd-square-teaser';
 ...
